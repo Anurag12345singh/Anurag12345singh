@@ -1,3 +1,4 @@
+[![MasterHead](https://github.com/Anurag12345singh/Anurag12345singh/blob/main/Untitled.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Anurag Singh</h1>
 <h3 align="center">A passionate full stack software developer from India</h3>
 
